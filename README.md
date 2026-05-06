@@ -1,6 +1,4 @@
-### CLASSIFICATION PROJECT
-
-# **Breast Cancer Analysis and Prediction Using Data Analytics**
+# **Breast Cancer Analysis and Prediction Using machine learning**
 
 ## **Brief Overview & Conclusion**
 
